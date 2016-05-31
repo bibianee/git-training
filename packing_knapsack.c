@@ -1,7 +1,7 @@
 /*
  * Packing knapsack question
  *
- * Copyright (C) 2016, Taeung Song <treeze.taeung@gmail.com>
+ * Copyright (C) 2016, 량석 장 <rsjang@tqms.co.kr>
  *
  */
 #include <stdio.h>
@@ -16,7 +16,7 @@ struct jewelry {
 	unsigned int price;
 };
 
-void packing_knapsack(struct knapsack *knapsack_list,
+void pack_knapsack(struct knapsack *knapsack_list,
 		      struct jewelry **usable_jewels)
 {
 	/* Case by case pack knapsack following maximum
