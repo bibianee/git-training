@@ -1,7 +1,7 @@
 /*
  * Packing knapsack question
  *
- * Copyright (C) 2016, 량석 장 <rsjang@tqms.co.kr>
+ * Copyright (C) 2016.5.31, 량석 장 <rsjang@tqms.co.kr>
  *
  */
 #include <stdio.h>
